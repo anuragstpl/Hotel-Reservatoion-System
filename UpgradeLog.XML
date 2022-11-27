@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="HotelReservation">
+</Property><Property Name="Solution File" Value="C:\Users\user\Documents\hotel reservation\HotelReservation\HotelReservation.sln">
+</Property><Property Name="User Options File" Value="C:\Users\user\Documents\hotel reservation\HotelReservation\HotelReservation.suo">
+</Property><Property Name="Date" Value="Friday, 24 November, 2017">
+</Property><Property Name="Time" Value="11:47 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="HotelReservation.sln" Description="File successfully backed up as C:\Users\user\Documents\hotel reservation\HotelReservation\Backup\HotelReservation.sln">
+</Event><Event ErrorLevel="0" Project="" Source="HotelReservation.suo" Description="File successfully backed up as C:\Users\user\Documents\hotel reservation\HotelReservation\Backup\HotelReservation.suo">
+</Event><Event ErrorLevel="2" Project="YobeTransport" Source="YobeTransport\YobeTransport.vbproj" Description="Unable to open project file to perform upgrade.  ">
+</Event><Event ErrorLevel="0" Project="" Source="HotelReservation.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="HotelReservation.sln" Description="Converted">
+</Event></UpgradeLog>

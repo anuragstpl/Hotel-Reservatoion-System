@@ -1,0 +1,58 @@
+C:\Users\user\Desktop\Dr. Richard Lai Projects\Hotel Reservation\VB\HotelReservation\HotelReservation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Dr. Richard Lai Projects\Hotel Reservation\VB\HotelReservation\HotelReservation\obj\Debug\HotelReservation.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\Dr. Richard Lai Projects\Hotel Reservation\VB\HotelReservation\HotelReservation\obj\Debug\HotelReservation.exe
+C:\Users\user\Desktop\Dr. Richard Lai Projects\Hotel Reservation\VB\HotelReservation\HotelReservation\obj\Debug\HotelReservation.xml
+C:\Users\user\Desktop\Dr. Richard Lai Projects\Hotel Reservation\VB\HotelReservation\HotelReservation\obj\Debug\HotelReservation.pdb
+C:\Users\user\Desktop\Dr. Richard Lai Projects\Hotel Reservation\VB\HotelReservation\HotelReservation\bin\Debug\HotelReservation.exe
+C:\Users\user\Desktop\Dr. Richard Lai Projects\Hotel Reservation\VB\HotelReservation\HotelReservation\bin\Debug\HotelReservation.pdb
+C:\Users\user\Desktop\Dr. Richard Lai Projects\Hotel Reservation\VB\HotelReservation\HotelReservation\bin\Debug\HotelReservation.xml
+C:\Users\user\Desktop\Dr. Richard Lai Projects\Hotel Reservation\VB\HotelReservation\HotelReservation\obj\Debug\HotelReservation.Form1.resources
+C:\Users\user\Desktop\Dr. Richard Lai Projects\Hotel Reservation\VB\HotelReservation\HotelReservation\obj\Debug\HotelReservation.Resources.resources
+C:\Users\asus\Documents\consultation project2\hotel reservation\HotelReservation\HotelReservation\obj\Debug\HotelReservation.exe
+C:\Users\asus\Documents\consultation project2\hotel reservation\HotelReservation\HotelReservation\obj\Debug\HotelReservation.xml
+C:\Users\asus\Documents\consultation project2\hotel reservation\HotelReservation\HotelReservation\obj\Debug\HotelReservation.pdb
+C:\Users\asus\Documents\consultation project2\hotel reservation\HotelReservation\HotelReservation\bin\Debug\HotelReservation.exe
+C:\Users\asus\Documents\consultation project2\hotel reservation\HotelReservation\HotelReservation\bin\Debug\HotelReservation.pdb
+C:\Users\asus\Documents\consultation project2\hotel reservation\HotelReservation\HotelReservation\bin\Debug\HotelReservation.xml
+C:\Users\asus\Documents\consultation project2\hotel reservation\HotelReservation\HotelReservation\obj\Debug\HotelReservation.Form1.resources
+C:\Users\asus\Documents\consultation project2\hotel reservation\HotelReservation\HotelReservation\obj\Debug\HotelReservation.Resources.resources
+C:\Users\asus\Documents\consultation project2\hotel reservation\HotelReservation\HotelReservation\obj\Debug\HotelReservation.vbproj.GenerateResource.Cache
+E:\hotel reservation\HotelReservation\HotelReservation\obj\Debug\HotelReservation.exe
+E:\hotel reservation\HotelReservation\HotelReservation\obj\Debug\HotelReservation.xml
+E:\hotel reservation\HotelReservation\HotelReservation\obj\Debug\HotelReservation.pdb
+F:\hotel reservation\HotelReservation\HotelReservation\obj\Debug\HotelReservation.exe
+F:\hotel reservation\HotelReservation\HotelReservation\obj\Debug\HotelReservation.xml
+F:\hotel reservation\HotelReservation\HotelReservation\obj\Debug\HotelReservation.pdb
+F:\hotel reservation\HotelReservation\HotelReservation\bin\Debug\HotelReservation.exe
+F:\hotel reservation\HotelReservation\HotelReservation\bin\Debug\HotelReservation.pdb
+F:\hotel reservation\HotelReservation\HotelReservation\bin\Debug\HotelReservation.xml
+F:\hotel reservation\HotelReservation\HotelReservation\obj\Debug\HotelReservation.Form1.resources
+F:\hotel reservation\HotelReservation\HotelReservation\obj\Debug\HotelReservation.Resources.resources
+F:\hotel reservation\HotelReservation\HotelReservation\obj\Debug\HotelReservation.vbproj.GenerateResource.Cache
+C:\Users\user\Documents\hotel reservation\HotelReservation\HotelReservation\obj\Debug\HotelReservation.exe
+C:\Users\user\Documents\hotel reservation\HotelReservation\HotelReservation\obj\Debug\HotelReservation.xml
+C:\Users\user\Documents\hotel reservation\HotelReservation\HotelReservation\obj\Debug\HotelReservation.pdb
+C:\Users\Abdulrahman Mande\Desktop\Share Folder\Yayus_Project\HotelReservation\HotelReservation\obj\Debug\HotelReservation.exe
+C:\Users\Abdulrahman Mande\Desktop\Share Folder\Yayus_Project\HotelReservation\HotelReservation\obj\Debug\HotelReservation.xml
+C:\Users\Abdulrahman Mande\Desktop\Share Folder\Yayus_Project\HotelReservation\HotelReservation\obj\Debug\HotelReservation.pdb
+C:\Users\Abdulrahman Mande\Desktop\Share Folder\Yayus_Project\HotelReservation\HotelReservation\bin\Debug\HotelReservation.exe
+C:\Users\Abdulrahman Mande\Desktop\Share Folder\Yayus_Project\HotelReservation\HotelReservation\bin\Debug\HotelReservation.pdb
+C:\Users\Abdulrahman Mande\Desktop\Share Folder\Yayus_Project\HotelReservation\HotelReservation\bin\Debug\HotelReservation.xml
+C:\Users\Abdulrahman Mande\Desktop\Share Folder\Yayus_Project\HotelReservation\HotelReservation\obj\Debug\HotelReservation.vbprojResolveAssemblyReference.cache
+C:\Users\Abdulrahman Mande\Desktop\Share Folder\Yayus_Project\HotelReservation\HotelReservation\obj\Debug\HotelReservation.Form1.resources
+C:\Users\Abdulrahman Mande\Desktop\Share Folder\Yayus_Project\HotelReservation\HotelReservation\obj\Debug\HotelReservation.Resources.resources
+C:\Users\Abdulrahman Mande\Desktop\Share Folder\Yayus_Project\HotelReservation\HotelReservation\obj\Debug\HotelReservation.vbproj.GenerateResource.Cache
+E:\Student Jobs\VB.Net\HotelReservation\HotelReservation\HotelReservation\obj\Debug\HotelReservation.exe
+E:\Student Jobs\VB.Net\HotelReservation\HotelReservation\HotelReservation\obj\Debug\HotelReservation.xml
+E:\Student Jobs\VB.Net\HotelReservation\HotelReservation\HotelReservation\obj\Debug\HotelReservation.pdb
+E:\Student Jobs\VB.Net\HotelReservation\HotelReservation\HotelReservation\bin\Debug\HotelReservation.exe
+E:\Student Jobs\VB.Net\HotelReservation\HotelReservation\HotelReservation\bin\Debug\HotelReservation.pdb
+E:\Student Jobs\VB.Net\HotelReservation\HotelReservation\HotelReservation\bin\Debug\HotelReservation.xml
+E:\Student Jobs\VB.Net\HotelReservation\HotelReservation\HotelReservation\obj\Debug\HotelReservation.Form1.resources
+E:\Student Jobs\VB.Net\HotelReservation\HotelReservation\HotelReservation\obj\Debug\HotelReservation.Resources.resources
+E:\Student Jobs\VB.Net\HotelReservation\HotelReservation\HotelReservation\obj\Debug\HotelReservation.vbproj.GenerateResource.Cache
+E:\Student Jobs\VB.Net\HotelReservation\HotelReservation\HotelReservation\obj\Debug\HotelReservation.ChooseDateTime.resources
+E:\Student Jobs\VB.Net\HotelReservation\HotelReservation\HotelReservation\obj\Debug\HotelReservation.AdminDashboard.resources
+E:\Student Jobs\VB.Net\HotelReservation\HotelReservation\HotelReservation\obj\Debug\HotelReservation.AdminLogin.resources
+E:\Student Jobs\VB.Net\HotelReservation\HotelReservation\HotelReservation\obj\Debug\HotelReservation.ViewBookings.resources
+E:\Student Jobs\VB.Net\HotelReservation\HotelReservation\HotelReservation\obj\Debug\HotelReservation.ViewCustomers.resources
